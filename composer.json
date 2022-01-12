@@ -1,0 +1,20 @@
+{
+    "name": "indianiic/country",
+    "description": "country package",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Indianiic\\Country\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nehaychaudhari44",
+            "email": "nehaychaudhari44@gmail.com"
+        }
+    ]
+}
