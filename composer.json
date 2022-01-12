@@ -11,6 +11,13 @@
             "Indianiic\\Country\\": "src/"
         }
     },
+     "extra": {
+        "laravel": {
+            "providers": [
+                "Indianiic\\Country\\CountryServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "nehaychaudhari44",
